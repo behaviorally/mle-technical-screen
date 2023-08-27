@@ -13,7 +13,7 @@ The filenames end in the format "_YYYY-MM-DD_yyyy.jpg"; "YYYY" being the year of
 You have 2 alternatives to pulling the dataset into your development environment:
 - Via Data Version Control within the repository \
 OR
-- Direct download from this [link](https://drive.google.com/file/d/1kfLlrkXrl8wmX3J8_Oq9RT9cwEWBpJRM/view?usp=sharing).
+- Direct download from this [link](https://drive.google.com/file/d/1kfLlrkXrl8wmX3J8_Oq9RT9cwEWBpJRM/view?usp=sharing) or this [link](https://storage.googleapis.com/mle-tech-screen-data/images.tar.gz).
 
 Feel free to augment the dataset (providing reasoning for your choice of dataset)...
 
