@@ -1,6 +1,6 @@
 # Machine Learning Engineer Technical Screen
 ## Problem Statement
-<font size="4.5">***"How can we determine the age of a person given their portrait?"***</font>
+<font size="5">***"How can we determine the age of a person given their portrait?"***</font>
 
 ## The Data
 You've been supplied with a dataset of images depicting people from a wide range of ages.\
