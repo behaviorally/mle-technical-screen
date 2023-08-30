@@ -1,11 +1,6 @@
 # Machine Learning Engineer Technical Screen
 ## Problem Statement
-***"How can we determine the age of a person given their portrait?"***
-
-## Guidance
-You have 2 hours for this task...
-- Use any and all resources available to you **(The Internet)** to attempt this problem.
-- Focus on demonstrating your thought process and mastery of the Data Science Model Development Lifecycle over finishing the task.
+<font size="4.5">***"How can we determine the age of a person given their portrait?"***</font>
 
 ## The Data
 You've been supplied with a dataset of images depicting people from a wide range of ages.\
@@ -17,9 +12,18 @@ OR
 
 Feel free to augment the dataset (providing reasoning for your choice of dataset)...
 
+## Guidance
+**You have 2 hours to wireframe and solve this problem.**
+- Use any and all resources available to you in your attempt. Be transparent about your sources (even data or code from The Internet).
+- Focus on demonstrating your thought process and mastery of the Data Science Model Development Lifecycle over finishing the task.
+
 ## Considerations
 What ethical concerns do you have with the problem statement and the given dataset?\
 If possible, how would you allay these concerns?
+
+How would you explain your solution's decisions to:
+- Technical stakeholders?
+- Non-technical stakeholders?
 
 ## Credit
 Provided images are part of the [IMDB-WIKI Dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
